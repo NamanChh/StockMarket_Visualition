@@ -16,21 +16,22 @@ This is a basic stock market visulaization application published on Streamlit wh
   
   <img width="1352" alt="Screenshot 2024-05-14 at 15 31 20" src="https://github.com/NamanChh/StockMarket_Visualition/assets/142370244/1c6b5980-1b74-4e35-bd4d-f3f59ce0bd9c">
   
-- Pricing Data such as Open, Close, High, Low, Volume, Change Percentage etc. :
+- Pricing Data such as Open, Close, High, Low, Volume, Change Percentage, Annual Return, Std. Deviation etc. :
   
-  <img width="1352" alt="Screenshot 2024-05-14 at 15 31 20" src="https://github.com/NamanChh/StockMarket_Visualition/assets/142370244/e7c08e56-c378-48db-9785-16cba7b37e9e">
+  <img width="1326" alt="Screenshot 2024-05-14 at 15 35 24" src="https://github.com/NamanChh/StockMarket_Visualition/assets/142370244/d6613d92-901e-48eb-b747-5d5d16a1863b">
   
 - Rate of Change (ROC) chart which is calculated on daily close of the stock :
-  
-  <img width="1352" alt="Screenshot 2024-05-14 at 15 31 20" src="https://github.com/NamanChh/StockMarket_Visualition/assets/142370244/0e393add-cfdf-4902-bdc2-32dd7f32dec2">
-  
+
+  <img width="1331" alt="Screenshot 2024-05-14 at 15 38 35" src="https://github.com/NamanChh/StockMarket_Visualition/assets/142370244/4b8e53a8-a78d-4fdf-ae2e-c698b7d98a45">
+
 - Volume Chart which shows how many shares of a particular stock was traded on a daily basis :
-  
-  <img width="1352" alt="Screenshot 2024-05-14 at 15 31 20" src="https://github.com/NamanChh/StockMarket_Visualition/assets/142370244/007bf3ed-b827-4113-b212-96913c343b47">
-  
+
+  <img width="1329" alt="Screenshot 2024-05-14 at 15 47 48" src="https://github.com/NamanChh/StockMarket_Visualition/assets/142370244/b4875796-91db-4a60-ae04-23277f2871da">
+
 - News Section which gives TOP 10 trending news about a particular stock :
   
-  <img width="1352" alt="Screenshot 2024-05-14 at 15 31 20" src="https://github.com/NamanChh/StockMarket_Visualition/assets/142370244/71174435-03ee-41e9-b222-657d029a646b">
+  <img width="1289" alt="Screenshot 2024-05-14 at 15 42 01" src="https://github.com/NamanChh/StockMarket_Visualition/assets/142370244/08d73b70-647a-4b00-a746-52b09c71cfd8">
+
 
 ## CONCLUSION
 
